@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [dual-layer caching with cloudflare kv and localstorage](https://sngeth.github.io/cloudflare/javascript/2025/07/13/dual-layer-caching-with-cloudflare-kv-and-localstorage/)
+*July 13, 2025*
+
+built a movie recommendation app that uses ai to analyze content themes.
+
 ### [adding fuzzy search to a jekyll blog](https://sngeth.github.io/jekyll/javascript/2025/07/06/adding-fuzzy-search-to-jekyll/)
 *July 06, 2025*
 
@@ -23,15 +28,6 @@ Ever notice how form validation can feel… boring? You click submit, some field
 *July 01, 2025*
 
 Your brain has this weird thing where it actually wants you to struggle.
-
-### [breaking down 'are your lights on?' chapter by chapter](https://sngeth.github.io/problem%20solving/2025/06/29/breaking-down-are-your-lights-on-chapter-by-chapter/)
-*June 29, 2025*
-
-part 1: what is the problem?
-
-chapter 1: a problem
-
-the famous brontosaurus tower story kicks things off. 73-story building, elevators are terrible, te...
 
 
 ---
