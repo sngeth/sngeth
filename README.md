@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [ai-powered goal setting with smart caching](https://sngeth.github.io/ai/javascript/cloudflare/2025/07/29/ai-powered-goal-setting-with-smart-caching/)
+*July 29, 2025*
+
+built a goal-setting app that transforms problems into actionable smart goals, then provides conversational ai guidance for each task.
+
 ### [dual-layer caching with cloudflare kv and localstorage](https://sngeth.github.io/cloudflare/javascript/2025/07/13/dual-layer-caching-with-cloudflare-kv-and-localstorage/)
 *July 13, 2025*
 
@@ -23,11 +28,6 @@ Dynamic languages like Ruby give you flexibility, but they also put the burden o
 *July 02, 2025*
 
 Ever notice how form validation can feel… boring? You click submit, some fields turn red, maybe you get an error message. Functional, sure. But what if...
-
-### [why your brain actually wants you to struggle](https://sngeth.github.io/psychology/personal%20development/2025/07/01/psychology-of-growth-through-challenge/)
-*July 01, 2025*
-
-Your brain has this weird thing where it actually wants you to struggle.
 
 
 ---
