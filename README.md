@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [Building a Terminal IRC Client with Bubble Tea: A Deep Dive into Go's TUI Framework](https://sngeth.github.io/go/terminal/ui/bubble-tea/2025/08/17/building-terminal-ui-with-bubble-tea/)
+*August 17, 2025*
+
+When I decided to build a modern IRC client for the terminal, I wanted something more sophisticated than the typical ncurses-based applications.
+
 ### [ai-powered goal setting with smart caching](https://sngeth.github.io/ai/javascript/cloudflare/2025/07/29/ai-powered-goal-setting-with-smart-caching/)
 *July 29, 2025*
 
@@ -23,11 +28,6 @@ wanted to add search to my blog without any server-side complexity or external s
 *July 05, 2025*
 
 Dynamic languages like Ruby give you flexibility, but they also put the burden of data safety on you.
-
-### [form validation with jitter effects](https://sngeth.github.io/javascript/css/2025/07/02/form-validation-jitter-effects/)
-*July 02, 2025*
-
-Ever notice how form validation can feel… boring? You click submit, some fields turn red, maybe you get an error message. Functional, sure. But what if...
 
 
 ---
