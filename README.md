@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [deploying rails to aws ecs fargate with application load balancer health checks](https://sngeth.github.io/rails/aws/devops/2025/09/13/deploying-rails-to-aws-ecs-fargate/)
+*September 13, 2025*
+
+a complete guide to containerizing a rails application and deploying it to aws ecs fargate with proper alb health check configuration.
+
 ### [Building a Terminal IRC Client with Bubble Tea: A Deep Dive into Go's TUI Framework](https://sngeth.github.io/go/terminal/ui/bubble-tea/2025/08/17/building-terminal-ui-with-bubble-tea/)
 *August 17, 2025*
 
@@ -23,11 +28,6 @@ built a movie recommendation app that uses ai to analyze content themes.
 *July 06, 2025*
 
 wanted to add search to my blog without any server-side complexity or external services.
-
-### [parse don't validate in ruby: building safer applications](https://sngeth.github.io/ruby/patterns/2025/07/05/parse-dont-validate-in-ruby/)
-*July 05, 2025*
-
-Dynamic languages like Ruby give you flexibility, but they also put the burden of data safety on you.
 
 
 ---
