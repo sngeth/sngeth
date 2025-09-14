@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [how that cloudflare outage happened (and how to avoid it)](https://sngeth.github.io/react/debugging/2025/09/14/cloudflare-useeffect-outage/)
+*September 14, 2025*
+
+so cloudflare had this massive outage recently. their tenant service api went down, taking the dashboard and a bunch of other apis with it. the root ca...
+
 ### [deploying rails to aws ecs fargate with application load balancer health checks](https://sngeth.github.io/rails/aws/devops/2025/09/13/deploying-rails-to-aws-ecs-fargate/)
 *September 13, 2025*
 
@@ -23,11 +28,6 @@ built a goal-setting app that transforms problems into actionable smart goals, t
 *July 13, 2025*
 
 built a movie recommendation app that uses ai to analyze content themes.
-
-### [adding fuzzy search to a jekyll blog](https://sngeth.github.io/jekyll/javascript/2025/07/06/adding-fuzzy-search-to-jekyll/)
-*July 06, 2025*
-
-wanted to add search to my blog without any server-side complexity or external services.
 
 
 ---
