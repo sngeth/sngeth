@@ -4,6 +4,16 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [why i refactored 1200 lines of vanilla js to vue](https://sngeth.github.io/vue/javascript/refactoring/2025/10/03/refactoring-vanilla-js-to-vue/)
+*October 03, 2025*
+
+i spent the last few hours refactoring my productivity app from vanilla javascript to vue 3.
+
+### [tracking your wins with git](https://sngeth.github.io/git/2025/09/22/tracking-your-wins-with-git/)
+*September 22, 2025*
+
+another year down, and i’m trying to remember what i actually built this year.
+
 ### [how that cloudflare outage happened (and how to avoid it)](https://sngeth.github.io/react/debugging/2025/09/14/cloudflare-useeffect-outage/)
 *September 14, 2025*
 
@@ -18,16 +28,6 @@ a complete guide to containerizing a rails application and deploying it to aws e
 *August 17, 2025*
 
 When I decided to build a modern IRC client for the terminal, I wanted something more sophisticated than the typical ncurses-based applications.
-
-### [ai-powered goal setting with smart caching](https://sngeth.github.io/ai/javascript/cloudflare/2025/07/29/ai-powered-goal-setting-with-smart-caching/)
-*July 29, 2025*
-
-built a goal-setting app that transforms problems into actionable smart goals, then provides conversational ai guidance for each task.
-
-### [dual-layer caching with cloudflare kv and localstorage](https://sngeth.github.io/cloudflare/javascript/2025/07/13/dual-layer-caching-with-cloudflare-kv-and-localstorage/)
-*July 13, 2025*
-
-built a movie recommendation app that uses ai to analyze content themes.
 
 
 ---
