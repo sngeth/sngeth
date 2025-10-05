@@ -9,6 +9,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 i spent the last few hours refactoring my productivity app from vanilla javascript to vue 3.
 
+### [materialized views made my dashboard 9000x faster](https://sngeth.github.io/rails/performance/postgresql/2025/10/03/materialized-views-performance-case-study/)
+*October 03, 2025*
+
+i built a rails dashboard to analyze millions of records.
+
 ### [tracking your wins with git](https://sngeth.github.io/git/2025/09/22/tracking-your-wins-with-git/)
 *September 22, 2025*
 
@@ -23,11 +28,6 @@ so cloudflare had this massive outage recently. their tenant service api went do
 *September 13, 2025*
 
 a complete guide to containerizing a rails application and deploying it to aws ecs fargate with proper alb health check configuration.
-
-### [Building a Terminal IRC Client with Bubble Tea: A Deep Dive into Go's TUI Framework](https://sngeth.github.io/go/terminal/ui/bubble-tea/2025/08/17/building-terminal-ui-with-bubble-tea/)
-*August 17, 2025*
-
-When I decided to build a modern IRC client for the terminal, I wanted something more sophisticated than the typical ncurses-based applications.
 
 
 ---
