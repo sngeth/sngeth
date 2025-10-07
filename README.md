@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [Debugging GitHub's Pinned Items Performance Issue in Safari](https://sngeth.github.io/performance/2025/10/07/debugging-github-safari-performance/)
+*October 07, 2025*
+
+I recently encountered a frustrating performance issue on GitHub’s profile settings page.
+
 ### [why i refactored 1200 lines of vanilla js to vue](https://sngeth.github.io/vue/javascript/refactoring/2025/10/03/refactoring-vanilla-js-to-vue/)
 *October 03, 2025*
 
@@ -23,11 +28,6 @@ another year down, and i’m trying to remember what i actually built this year.
 *September 14, 2025*
 
 so cloudflare had this massive outage recently. their tenant service api went down, taking the dashboard and a bunch of other apis with it. the root ca...
-
-### [deploying rails to aws ecs fargate with application load balancer health checks](https://sngeth.github.io/rails/aws/devops/2025/09/13/deploying-rails-to-aws-ecs-fargate/)
-*September 13, 2025*
-
-a complete guide to containerizing a rails application and deploying it to aws ecs fargate with proper alb health check configuration.
 
 
 ---
