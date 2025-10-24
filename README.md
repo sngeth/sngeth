@@ -4,6 +4,21 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [migrating to zig 0.15: the roadblocks nobody warned you about](https://sngeth.github.io/zig/systems-programming/breaking-changes/2025/10/24/zig-0-15-migration-roadblocks/)
+*October 24, 2025*
+
+i built a command-line security tool to analyze shell scripts before executing them (preventing those dangerous curl | bash situations).
+
+### [analyzing ocaml patterns in a real web app: what melange code actually looks like](https://sngeth.github.io/ocaml/melange/javascript/react/functional-programming/2025/10/15/building-type-safe-web-apps-with-melange/)
+*October 15, 2025*
+
+i built an options max pain calculator using melange (ocaml that compiles to javascript).
+
+### [lateral joins: the rails optimization nobody talks about](https://sngeth.github.io/rails/performance/postgresql/activerecord/2025/10/09/lateral-joins-rails-hidden-performance-win/)
+*October 09, 2025*
+
+i benchmarked lateral joins against window functions and N+1 queries for the classic “top N per group” problem in rails.
+
 ### [Debugging GitHub's Pinned Items Performance Issue in Safari](https://sngeth.github.io/performance/2025/10/07/debugging-github-safari-performance/)
 *October 07, 2025*
 
@@ -13,21 +28,6 @@ I recently encountered a frustrating performance issue on GitHub’s profile set
 *October 03, 2025*
 
 i spent the last few hours refactoring my productivity app from vanilla javascript to vue 3.
-
-### [materialized views made my dashboard 9000x faster](https://sngeth.github.io/rails/performance/postgresql/2025/10/03/materialized-views-performance-case-study/)
-*October 03, 2025*
-
-i built a rails dashboard to analyze millions of records.
-
-### [tracking your wins with git](https://sngeth.github.io/git/2025/09/22/tracking-your-wins-with-git/)
-*September 22, 2025*
-
-another year down, and i’m trying to remember what i actually built this year.
-
-### [how that cloudflare outage happened (and how to avoid it)](https://sngeth.github.io/react/debugging/2025/09/14/cloudflare-useeffect-outage/)
-*September 14, 2025*
-
-so cloudflare had this massive outage recently. their tenant service api went down, taking the dashboard and a bunch of other apis with it. the root ca...
 
 
 ---
