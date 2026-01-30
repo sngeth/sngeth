@@ -4,6 +4,11 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [server-side vs client-side tools in llm apis: a costly lesson](https://sngeth.github.io/ai/llm/anthropic/api-design/2026/01/30/server-vs-client-side-tools-in-llm-apis/)
+*January 30, 2026*
+
+i was burning through api credits 3x faster than expected.
+
 ### [migrating to zig 0.15: the roadblocks nobody warned you about](https://sngeth.github.io/zig/systems-programming/breaking-changes/2025/10/24/zig-0-15-migration-roadblocks/)
 *October 24, 2025*
 
@@ -23,11 +28,6 @@ i benchmarked lateral joins against window functions and N+1 queries for the cla
 *October 07, 2025*
 
 I recently encountered a frustrating performance issue on GitHub’s profile settings page.
-
-### [why i refactored 1200 lines of vanilla js to vue](https://sngeth.github.io/vue/javascript/refactoring/2025/10/03/refactoring-vanilla-js-to-vue/)
-*October 03, 2025*
-
-i spent the last few hours refactoring my productivity app from vanilla javascript to vue 3.
 
 
 ---
