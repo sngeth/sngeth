@@ -4,10 +4,10 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
-### [server-side vs client-side tools in llm apis: a costly lesson](https://sngeth.github.io/ai/llm/anthropic/api-design/2026/01/30/server-vs-client-side-tools-in-llm-apis/)
+### [server-side vs client-side tools in llm apis](https://sngeth.github.io/ai/llm/anthropic/api-design/2026/01/30/server-vs-client-side-tools-in-llm-apis/)
 *January 30, 2026*
 
-i was burning through api credits 3x faster than expected.
+when building agentic applications with the anthropic api, understanding the difference between client tools and server tools is essential.
 
 ### [migrating to zig 0.15: the roadblocks nobody warned you about](https://sngeth.github.io/zig/systems-programming/breaking-changes/2025/10/24/zig-0-15-migration-roadblocks/)
 *October 24, 2025*
