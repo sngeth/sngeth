@@ -4,6 +4,13 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [opencode permission rules: protecting your code from ai agents](https://sngeth.github.io/opencode/ai/git/worktrees/terraform/2026/03/10/opencode-permission-rules-protecting-git-worktrees/)
+*March 10, 2026*
+
+a terraform destroy that wiped production
+
+in february 2026, alexey grigorev let his claude code agent run terraform destroy on what he thought were duplicate resources.
+
 ### [server-side vs client-side tools in llm apis](https://sngeth.github.io/ai/llm/anthropic/api-design/2026/01/30/server-vs-client-side-tools-in-llm-apis/)
 *January 30, 2026*
 
@@ -23,11 +30,6 @@ i built an options max pain calculator using melange (ocaml that compiles to jav
 *October 09, 2025*
 
 i benchmarked lateral joins against window functions and N+1 queries for the classic “top N per group” problem in rails.
-
-### [Debugging GitHub's Pinned Items Performance Issue in Safari](https://sngeth.github.io/performance/2025/10/07/debugging-github-safari-performance/)
-*October 07, 2025*
-
-I recently encountered a frustrating performance issue on GitHub’s profile settings page.
 
 
 ---
