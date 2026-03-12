@@ -4,6 +4,27 @@ I'm Sid, a software engineer who writes about code, performance, and the occasio
 
 ## Latest Blog Posts
 
+### [adding vim keybindings to opencode's tui](https://sngeth.github.io/opencode/vim/typescript/solidjs/tui/2026/03/11/adding-vim-keybindings-to-opencode/)
+*March 11, 2026*
+
+the request
+  what claude code’s vim mode actually supports
+  opencode’s TUI architecture
+  the four-layer architecture
+  cross-referencing against neovim’s source
+  full vim mode reference
+  how to try it
+  files changed
+  more gotchas (found after shipping)
+  escape key routing during generation
+
+
+
+
+the request
+
+claude code shipped vim mode in late 2025.
+
 ### [opencode permission rules: protecting your code from ai agents](https://sngeth.github.io/opencode/ai/git/worktrees/terraform/2026/03/10/opencode-permission-rules-protecting-git-worktrees/)
 *March 10, 2026*
 
@@ -25,11 +46,6 @@ i built a command-line security tool to analyze shell scripts before executing t
 *October 15, 2025*
 
 i built an options max pain calculator using melange (ocaml that compiles to javascript).
-
-### [lateral joins: the rails optimization nobody talks about](https://sngeth.github.io/rails/performance/postgresql/activerecord/2025/10/09/lateral-joins-rails-hidden-performance-win/)
-*October 09, 2025*
-
-i benchmarked lateral joins against window functions and N+1 queries for the classic “top N per group” problem in rails.
 
 
 ---
