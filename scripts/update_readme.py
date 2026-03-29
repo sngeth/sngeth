@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 
 FEED_URL = "https://sngeth.github.io/atom.xml"
 README_PATH = "README.md"
-MAX_POSTS = 5
+MAX_POSTS = 10
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
 START_MARKER = "<!-- BLOG-POSTS:START -->"
