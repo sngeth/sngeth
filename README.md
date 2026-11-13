@@ -9,6 +9,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [a pre-commit security review with openrouter and deepseek](https://sngeth.com//software%20development/ai/security/2026/11/12/openrouter-deepseek-pre-commit-security-check/) — *2026-11-12*
 - [formal verification with coding agents](https://sngeth.com//software%20development/ai/2026/11/04/formal-verification-with-coding-agents/) — *2026-11-04*
 - [the second opinion needs to read the code](https://sngeth.com//llm/agents/code-review/swe-bench/research/2026/03/29/the-second-opinion-needs-to-read-the-code/) — *2026-03-29*
 - [nanoclaw's memory architecture: sqlite + 200-message rolling window](https://sngeth.com//llm/agents/memory/sqlite/architecture/2026/03/15/nanoclaw-memory-architecture/) — *2026-03-15*
@@ -18,7 +19,6 @@
 - [migrating to zig 0.15: the roadblocks nobody warned you about](https://sngeth.com//zig/systems-programming/breaking-changes/2025/10/24/zig-0-15-migration-roadblocks/) — *2025-10-24*
 - [analyzing ocaml patterns in a real web app: what melange code actually looks like](https://sngeth.com//ocaml/melange/javascript/react/functional-programming/2025/10/15/building-type-safe-web-apps-with-melange/) — *2025-10-15*
 - [lateral joins: the rails optimization nobody talks about](https://sngeth.com//rails/performance/postgresql/activerecord/2025/10/09/lateral-joins-rails-hidden-performance-win/) — *2025-10-09*
-- [Debugging GitHub's Pinned Items Performance Issue in Safari](https://sngeth.com//performance/2025/10/07/debugging-github-safari-performance/) — *2025-10-07*
 <!-- BLOG-POSTS:END -->
 
 ---
